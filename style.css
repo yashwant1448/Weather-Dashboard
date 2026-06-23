@@ -1,0 +1,33 @@
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(135deg,#ace2f2,#00f2fe);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background:white;
+    padding:50px;
+    border-radius:15px;
+    text-align:center;
+    width:350px;
+}
+
+input{
+    width:70%;
+    padding:10px;
+    border-radius: 2px;
+}
+
+button{
+    padding:10px;
+    cursor:pointer;
+    color: #0a0a0a;
+    border-radius: 2px;
+}
+
+#weather{
+    margin-top:20px;
+}
